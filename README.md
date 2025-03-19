@@ -1,3 +1,3 @@
-# Written-Report-on-Clustering-Methods
+# Effectiveness of t-SNE Algorithm as a Clustering Method
 
 This written report explores the effectiveness of t-SNE and k-means algorithms as clustering methods. Here, we analyze data sets of single-cell RNA sequences; the rows represent each cell and the columns represent the normalized transcript compatibility count of an equivalence class of short RNA sequences, rescaled to units of counts per million. The transcript compatibility count at location (i, j), where 'i' is the i-th row and 'j' is the j-th column, represents the level of expression of the j-th gene in the i-th cell. The data was compiled by the Allen Institute, and the data contains cells from the neocortex of mice, a region in the brain which governs higher-level functions such as perception and cognition.
